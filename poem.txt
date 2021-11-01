@@ -4,7 +4,6 @@ green
 blue
 yellow
 orange
-pinl
+pink
 white
-safforn
-purpal
+saffon

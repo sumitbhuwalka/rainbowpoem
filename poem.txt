@@ -6,5 +6,4 @@ yellow
 orange
 pink
 white
-saffon
-color3
+

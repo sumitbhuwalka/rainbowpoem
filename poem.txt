@@ -7,3 +7,4 @@ orange
 pinl
 white
 safforn
+purpal

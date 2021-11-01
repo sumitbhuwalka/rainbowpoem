@@ -4,8 +4,5 @@ green
 blue
 yellow
 orange
-pinl
+pink
 white
-safforn
-color1
-color2

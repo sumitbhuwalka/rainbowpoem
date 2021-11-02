@@ -2,6 +2,7 @@ rain bow colour
 red
 green
 blue
+Sita Ram
 yellow
 orange
 pink
